@@ -77,22 +77,22 @@ Open the project in Visual Studio 2013
 ## Screenshots
 
 ### **Menu**
-<img src="https://github.com/user-attachments/assets/c2ebe5fa-3118-49df-94b1-5cbe7d6109c4" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/c2ebe5fa-3118-49df-94b1-5cbe7d6109c4" width="400" height="200">
 
 ### **Turning Road Feature**
-<img src="https://github.com/user-attachments/assets/1fc9b966-b869-4670-bd08-395c09d13aec" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/1fc9b966-b869-4670-bd08-395c09d13aec" width="400" height="200">
 
 ### **Player Driving**
-<img src="https://github.com/user-attachments/assets/49e05944-7b6a-4bde-8201-fe2db3a7100d" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/49e05944-7b6a-4bde-8201-fe2db3a7100d" width="400" height="200">
 
 ### **Monster Truck**
-<img src="https://github.com/user-attachments/assets/0d98e565-7ee1-45cc-a382-b25cee674553" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/0d98e565-7ee1-45cc-a382-b25cee674553" width="400" height="200">
 
-### **Menu**
-<img src="https://github.com/user-attachments/assets/c3cba533-40c2-4d00-90b8-2ec397a5fba6" width="200" height="200">
+### **Car using nitro**
+<img src="https://github.com/user-attachments/assets/c3cba533-40c2-4d00-90b8-2ec397a5fba6" width="400" height="200">
 
-### **Turning Road Feature**
-<img src="https://github.com/user-attachments/assets/54626ddc-7933-490e-8ade-d10f8fdd12e7" width="200" height="200">
+### **Armored car shooting**
+<img src="https://github.com/user-attachments/assets/54626ddc-7933-490e-8ade-d10f8fdd12e7" width="400" height="200">
 
 ## Youtube Link
 [CSE 1200 Project: Velocity Vortex](https://www.youtube.com/watch?v=kyJCOAwvBXE)
